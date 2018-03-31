@@ -1,0 +1,48 @@
+<html>
+<head>
+	<title>Add Data</title>
+</head>
+
+<body>
+<h2>Form Tambah Data</h2>
+<hr>
+	<a href="index.php">Home</a>
+	<br/><br/>
+
+	<form action="add.php" method="post" name="form1">
+		<table width="25%" border="0">
+			<tr> 
+				<td>Nim</td>
+				<td><input type="text" name="nim"></td>
+			</tr>
+			<tr> 
+				<td>Nama</td>
+				<td><input type="text" name="nama"></td>
+			</tr>
+			<tr> 
+				<td>Jurusan</td>
+				<td><label class="col-sm-2 control-label">
+                <span class="col-sm-3">
+                <select class="form-control" name="jurusan" placeholder="Pilih Jurusan" required>
+                  <option value=""></option>
+                  <option value="Teknik Informatika">Teknik Informatika</option>
+                  <option value="Kebidanan">Kebidanan</option>
+                  <option value="Farmasi">Farmasi</option>
+                  <option value="Akuntansi">Akuntansi</option>
+                  <option value="Teknik Komputer">Teknik Komputer</option>
+                  <option value="Teknik Mesin">Teknik Mesin</option>
+                  <option value="Teknik Elektro">Teknik Elektro</option>
+                </select>
+                </span>
+              <div class="col-sm-3"></div>
+              </td>
+			</tr>
+			<tr> 
+				<td><input type="submit" name="Submit" value="Simpan"></td>
+				<td><a href="index.php" class="btn btn-warning">Batal</a></td>
+		 </tr>
+		</table>
+	</form>
+</body>
+</html>
+
