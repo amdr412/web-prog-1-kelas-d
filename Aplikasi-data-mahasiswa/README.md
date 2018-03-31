@@ -7,10 +7,10 @@ Aplikasi CRUD Pendataan Mahasiswa
 Salah satu project mata kuliah pemrograman web 1
 
 # Dibuat Oleh
-NIM 	          : 16090153
-Nama		        : Ahmad Ropii
-Kelas  	        : 4D
-Prodi		        : D4-Teknik Informatika
+1. NIM 	            : 16090153,
+2. Nama		          : Ahmad Ropii,
+3. Kelas  	        : 4D,
+4. Prodi		        : D4-Teknik Informatika,
 
 -------------------------------------------------
 # Fitur
