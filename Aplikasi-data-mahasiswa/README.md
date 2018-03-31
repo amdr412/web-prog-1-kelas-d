@@ -1,18 +1,24 @@
 # crud-php-mysql
-Aplikasi CRUD dengan PHP dan MySQL (Procedural Style)
+================================================
+Aplikasi CRUD Pendataan Mahasiswa   
+================================================
 
-Bahasa Pemrograman 	: PHP,
-Database		        : MySQL (Ekstensi MySQL),
-Metode Pemrograman	: Prosedural,
-Template		        : Bootstrap 3
-
+Salah satu project mata kuliah pemrograman web 1
+Dibuat Oleh,
+-------------------------------------------------
+NIM 	          : 16090153,
+Nama		        : Ahmad Ropii,
+Kelas  	        : 4D,
+Prodi		        : D4-Teknik Informatika
+-------------------------------------------------
 # Fitur
 1. Create
 2. Read
 3. Update
 4. Delete
-5. Search
-6. Pagination
-7. Penggunaan CSS Bootstrap 3
-8. Membuat fungsi untuk membatasi karakter yang diinputkan
-9. Keamanan dasar untuk mencegah sql injection
+
+Menggunakan,
+Bahasa Pemrograman 	: PHP,
+Database		        : MySQL (Ekstensi MySQLI),
+
+================================Terima Kasih+=================
