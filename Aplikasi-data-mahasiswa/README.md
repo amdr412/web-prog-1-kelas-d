@@ -1,7 +1,8 @@
 # crud-php-mysql
-================================================
-Aplikasi CRUD Pendataan Mahasiswa   
-================================================
+=============================
+Aplikasi CRUD Pendataan Mahasiswa  
+=============================
+
 
 Salah satu project mata kuliah pemrograman web 1
 Dibuat Oleh,
